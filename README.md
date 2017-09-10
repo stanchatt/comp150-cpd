@@ -1,4 +1,4 @@
-# comp150-cpd
+# COMP150 - Reflective Journal to Accompany My CPD Report
 
 You should reflect across the first 13 weeks of the course. This is the period from induction week to the Winter vacation. In your reflections, you should try to identify at least one challenge that you experienced and/or obstacle that you encountered that week. Consider which skills and/or characteristics that challenge/obstacle relates to. 
 
