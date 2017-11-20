@@ -37,23 +37,22 @@ i was very happy when i met my team for the game development project because i k
 
 Peer-review finished and first assignment finished! Learned more about academic writing and complexity theory
 
-Weekly journal goes here. Reflect.
+In this week we learned about TeX and how to use TeX files. At first I found it very confusing using a TeX program becuase i kept forgetting to use simple codes like "\begin {document". This meant I struggled to find motivation to use TeX because it would confuse and infuriated me, however after spending a few hours using TeX and asking my colleagues for assistance, i found it easier to use and and understand and was able to implement it into my agile essay. 
 
 ## Week 6
 
 Spent the week with my team working in the studio! Made a lot of progress on the game...
 
-Weekly journal goes here. Reflect.
+At first y team were very eager to spend time together in the studio and work on the game. The first few days we were able to have 4/5 of us to turn up and have our stand ups where we would discuss what we plan on doing that day. However, after a few days, we struggled to get more than 2/5 people into the studio, this was due to people being busy, medical issues or just lack of motivation. This meant that we became quite agitated with one another. we tried to solve this by gathering on discord and doing it from home, however this didnt solve the problem because we couldnt get everyone on discord at the same time.
 
 ## Week 7
 
-and so on...
+This week we had to present our agile presentation. We found it difficult to have the presentation be a TeX file because we have never used TeX collaboratively. We solved this by firstly making the presentation with google docs which meant we could all do our parts and then copy it into TeX and format it and still have the google docs as a back up. unfortunately we couldnt use the TeX presenation because we didnt use github for version control, which was silly of us. We ended up using the back up google docs for our presentation
 
-Weekly journal goes here. Reflect.
 
 ## Week 8
 
-and so on...
+This week we had the Agile essay and Research journal due. I found this week very stressful because where I tunnelvisioned on the agile essay on week 7 and the game project on week 6 meant i completely forgot about the research journal. So i had to write the research journal within a few days before the deadline. This taught me that i need to learn to manage my time aswell as keep checking and refresing my mind regarding deadlines.
 
 Weekly journal goes here. Reflect.
 
