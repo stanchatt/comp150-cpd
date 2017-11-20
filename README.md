@@ -49,12 +49,9 @@ At first y team were very eager to spend time together in the studio and work on
 
 This week we had to present our agile presentation. We found it difficult to have the presentation be a TeX file because we have never used TeX collaboratively. We solved this by firstly making the presentation with google docs which meant we could all do our parts and then copy it into TeX and format it and still have the google docs as a back up. unfortunately we couldnt use the TeX presenation because we didnt use github for version control, which was silly of us. We ended up using the back up google docs for our presentation
 
-
-## Week 8
+# Week 8
 
 This week we had the Agile essay and Research journal due. I found this week very stressful because where I tunnelvisioned on the agile essay on week 7 and the game project on week 6 meant i completely forgot about the research journal. So i had to write the research journal within a few days before the deadline. This taught me that i need to learn to manage my time aswell as keep checking and refresing my mind regarding deadlines.
-
-Weekly journal goes here. Reflect.
 
 ## Week 9
 
