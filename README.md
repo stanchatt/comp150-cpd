@@ -43,7 +43,7 @@ In this week we learned about TeX and how to use TeX files. At first I found it 
 
 Spent the week with my team working in the studio! Made a lot of progress on the game...
 
-At first y team were very eager to spend time together in the studio and work on the game. The first few days we were able to have 4/5 of us to turn up and have our stand ups where we would discuss what we plan on doing that day. However, after a few days, we struggled to get more than 2/5 people into the studio, this was due to people being busy, medical issues or just lack of motivation. This meant that we became quite agitated with one another. we tried to solve this by gathering on discord and doing it from home, however this didnt solve the problem because we couldnt get everyone on discord at the same time.
+At first my team were very eager to spend time together in the studio and work on the game. The first few days we were able to have 4/5 of us to turn up and have our stand ups where we would discuss what we plan on doing that day. However, after a few days, we struggled to get more than 2/5 people into the studio, this was due to people being busy, medical issues or just lack of motivation. This meant that we became quite agitated with one another. we tried to solve this by gathering on discord and doing it from home, however this didnt solve the problem because we couldnt get everyone on discord at the same time.
 
 ## Week 7
 
@@ -55,24 +55,16 @@ This week we had the Agile essay and Research journal due. I found this week ver
 
 ## Week 9
 
-and so on...
-
-Weekly journal goes here. Reflect.
-
+this week i unfortuanlty couldnt attend the 110 Primitive and Object Data lecture due to a doctor appointment. This means i will visit in my own time and take notes. Also during week 9 i was continuing my tinkering audio assignment. I had to redo my tinkering audio assignment because i read the brief incorrectly, which meant i did the assigntment wrong. i will avoid this in the future by thoroughly reading the assignment brief and asking colleagues for more clarification
 ## Week 10
 
-and so on...
-
-Weekly journal goes here. Reflect.
+This week I had the tinkering audio peer review. I feel like i was more strict than usual because of the amount practive ive had doing other peer reviews in other modules, i feel like this will help me with my own work because i will be more self critical and improve my work. I also had to present my pygame demo to investors. I was very nervous about this due to the fact that my team and i struggled to get a finished game done. We ran into many problems like overscoping and compiling code which wouldnt work. I will avoid this in the future by making sure the game is simple and easy to develop.
 
 ## Week 11
 
-and so on...
-
-Weekly journal goes here. Reflect.
+This week we started working in the unreal engine and going through the tutorial walkthrough. I was excited for this because i enjoy using the unreal engine and i feel like its a good start to making interesting games. I also learned about more Data Structures techniques, mostly Stacks and queues. I found it a little confusing at times so i will go revisit the slides in  my own time and take notes in a way that makes me understand it easier. this will help me improve my note taking skills as well as understanding techniques and information i find confusing.
 
 ## Week 12
 
-and so on...
+This week i wasnt able to attend another 110 session about Further Computational Mathematics for Games, due to another doctor appointment but again i will go back and visit the session slides and take notes to help me understand the content. i will avoid missing furthur sessions by making sure i book my doctor appointments in advance and making sure there are no clashes with my timetable. This week i also had my new game pitch with my new group. i felt like this went very well because my team took a lot of time refining the game making sure it was striaght forward and easy to understand and practicing the pitch so they know what to say exactly. i helped with the pitch by contrubting to some game mechanics slides.
 
-Weekly journal goes here. Reflect.
