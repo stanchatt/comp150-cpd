@@ -1,4 +1,4 @@
-# COMP150 - Reflective Journal to Accompany My CPD Report
+# COMP130 - Reflective Journal to Accompany My CPD Report
 
 You should reflect across the first 13 weeks of the course. This is the period from induction week to the Winter vacation. In your reflections, you should try to identify at least one challenge that you experienced and/or obstacle that you encountered that week. Consider which skills and/or characteristics that challenge/obstacle relates to. 
 
@@ -6,65 +6,71 @@ This will prove to be a considerable aid when you need to identify the most impo
 
 ## Week 0
 
-Induction Week and the Robot Olympiad
+Meeting the team and game concepts
 
-The robot Olympiad was very interesting and gave me good insight on what team work will be like working with my colleagues. My team was able agree on a certain type of build and work out the most efficient programming for our robot to complete a task. Whenever our robot couldn't complete a certain task, our team would discuss why and calculate a solution. The only challenging thing about the robot Olympiad was making sure our robot would drive straight
+I was very anxious to meet the team as i struggle with meeting new people due to my anxiety. I thought to myself i would tackle this situation by not backing down to any ideas i had or complimenting and encouraging other peoples ideas if i too liked them. The team had many different ideas that we liked so it wasn't easy to just pick a game we all liked the idea of, so we decided to give it a week so we can really flesh out our game ideas with mechanics, art design, narratives etc.
 
 ## Week 1
 
-From Concepts to Design and Commerce, An Introduction to Python Programming and PyGame, and Computing Fundamentals
+Deciding on the game and working on protoypes 
 
-The introduction to python was very eye opening, I've never used python before so i did struggle to understand what was happening and why. However due to my friendly course mates, i was able to ask for help and explanations regarding my code. I found getting pygame up and running very simple and straight forward. I found spacechem challenging to begin with, but once i started to understand the games mechanics, i started to solve puzzles efficiently. i over came this by asking friends how to use certain symbols and other mechanics i didn't know.
+This week we finally decided on what our game was going to be. We wanted a 4 player couch shooter with a unique bullet mechanic where when a player fires, everyone else gets another bullet. We decided the art style would a be a neon cyber punk aesthetic similar to things like tron. One of the challenges that we discovered was how we were going to prototype the game. So Sam decided that all the programmers should make their own version of the game and whoever game was the best, we work from that one. we had a week to do this.
 
 ## Week 2
 
-Tinkering Graphics, the Agile Philosophy, and Journal Articles in Computing
+Prototyping the game
 
-I was very concerned starting my tinkering graphics project due to my lack of experience working with python, however my programming partner was very helpful and together we pulled through and started to slowly understand the language. But i did find the project challenging because not knowing the language means i was just stumped and useless to my partner. i will over come this by watching youtube videos based on the python language learning about the agile philosophy was also very helpful because i was able to discover ways of how our group can function.
+This week i started my prototype for the game. I had a big problem with this has i didnt know how to code in unreal so i had to use tutorials from youtube. I was able to get a basic version of the game but because Sam was also following the same tutorial and had extra features added in i.e animations etc. we decided to go with his prototype. Once this was decided we started discussing on what mechanics needed to be added first, Sam was gonna start converting all the blueprint code into c++ while i prototype little mechanics like dashing using blue prints.
 
 ## Week 3
 
-Starting my Tinkering Graphics Assignment, Pitching my First Game Concept, and Version Control
+Adding little mechanics to the game.
 
-I was still anxious working on my tinkering graphics assignment, i felt like i should know what i was doing, but i found it quite challenging. Pitching my game concept was also quite challenging, i was able to come up with a game concept, however, when it came to the business side of things, i struggled because i just didn't really know how the business side works. I also got very confused using version control, however i was eager to learn it knowing how helpful it will be. I will overcome this by trying to spend as much time trying to use version control and watch videos explaining how to use it.
+This week didn't start so well for me as it was my birthday and i went a little too crazy the night before, meaning i was too sick to work on the game. I learned from this challenge by learning drink moderation so im not a hindrance on the team. However i was able to create the dashing mechanic for the game which worked really well. Once this was added i started experimenting with a knock back mechanic adding it to the dash, however this did not test well as it felt too janky and just a weird experience.
+
 ## Week 4
 
-Met my Team for the Game Development Project! More Programming and Learning about Logic and Academic Writing
-
-i was very happy when i met my team for the game development project because i know we was going to have good chemistry and be able to discuss and introduce new ideas for our game. Even though i watched some videos based on python, i still felt useless for my partner due to is knowledge on python, however he was still very helpful getting me to understand the language. I will overcome this by spending more of my time researching and trying to use python and understanding its key functions.
+unfortunately i cant remember what i did this week. so in the future i will prevent this by writing about my experiences every friday 
 
 ## Week 5
 
-Peer-review finished and first assignment finished! Learned more about academic writing and complexity theory
+Snow week and Software engineering questions
 
-In this week we learned about TeX and how to use TeX files. At first I found it very confusing using a TeX program becuase i kept forgetting to use simple codes like "\begin {document". This meant I struggled to find motivation to use TeX because it would confuse and infuriated me, however after spending a few hours using TeX and asking my colleagues for assistance, i found it easier to use and and understand and was able to implement it into my agile essay. 
+This week in snowed in Falmouth, so i decided to take advantage of this rare opportunity and enjoy the snow. this means for the days it did snow i didn't do any work for the game project apart from watching unreal videos for research purposes. this week we also had our software engineering proposals due and i really struggled to come up with a question because i was unsure of what the essay was about, i over came this challenge by asking many of my peers what their questions was to give me a rough idea about what i could ask, in the end my question was "how do developers determine whether their game login systems are suﬃciently secure?"
 
 ## Week 6
 
-Spent the week with my team working in the studio! Made a lot of progress on the game...
+Working on the game and discussing c++ over blue prints 
 
-At first my team were very eager to spend time together in the studio and work on the game. The first few days we were able to have 4/5 of us to turn up and have our stand ups where we would discuss what we plan on doing that day. However, after a few days, we struggled to get more than 2/5 people into the studio, this was due to people being busy, medical issues or just lack of motivation. This meant that we became quite agitated with one another. we tried to solve this by gathering on discord and doing it from home, however this didnt solve the problem because we couldnt get everyone on discord at the same time.
+This week Sam and I talked about if we should code the game in C++ or just use blueprints. the pros to using C++ is that it gives us the knowledge of the languae which we could apply in other situations. the cons was it was going to take us a lot longer as we didnt know the langauge. The pros to using blue prints is that its alot easier for us to make mechanics and prototype features. the cons is that we can only use blue prints within unreal. In the end we decided to just work within blueprints because that way we can actually make the game within the timeframe given.
 
 ## Week 7
 
-This week we had to present our agile presentation. We found it difficult to have the presentation be a TeX file because we have never used TeX collaboratively. We solved this by firstly making the presentation with google docs which meant we could all do our parts and then copy it into TeX and format it and still have the google docs as a back up. unfortunately we couldnt use the TeX presenation because we didnt use github for version control, which was silly of us. We ended up using the back up google docs for our presentation
+Show en tell day and Software engineering presentations
+
+This week we had the show en tell day which i was really looking forward to because i was i excited to see the games in other years and see how far they have come. it was also really interesting to see how far the games in 1st year have come as i have not had the opportunity to see some of their games. This week we also had our engineering presentations which i totally forgot about as i was too occupied working on the game project. this means my presentation was pretty crap. Next time i will learn to prioritize other assignments so i dont tunnel vision 
 
 # Week 8
 
-This week we had the Agile essay and Research journal due. I found this week very stressful because where I tunnelvisioned on the agile essay on week 7 and the game project on week 6 meant i completely forgot about the research journal. So i had to write the research journal within a few days before the deadline. This taught me that i need to learn to manage my time aswell as keep checking and refresing my mind regarding deadlines.
+Essay week
+
+This week we had the essay peer review. My essay didn't come out as well as i hoped due to the fact my essay question wast very specific and i struggled to find academic resources. i feel like essays are a weak spot for me as i seem to struggle to find academic resources because im never too sure what references to search for and i also struggle to read the papers once i find them due to lack of concentration. so in the future to over come this i will read the papers in short burst so i dont keep losing concentration, i know this will take me longer to finish the paper but at least it would be finished.
 
 ## Week 9
 
-this week i unfortuanlty couldnt attend the 110 Primitive and Object Data lecture due to a doctor appointment. This means i will visit in my own time and take notes. Also during week 9 i was continuing my tinkering audio assignment. I had to redo my tinkering audio assignment because i read the brief incorrectly, which meant i did the assigntment wrong. i will avoid this in the future by thoroughly reading the assignment brief and asking colleagues for more clarification
+Coming back from easter
+
+when i came back from the easter brake i was very behind on the game because i didnt have my computer with me so i couldnt commit any work to the project. i will try to overcome this by making sure i have some kind of device where i can do work and commit to the project. Sam had told me the catch mechanic has replaced the bullet generation mechanic due to better play testing as well other bullet types. I was still adding little mechanics to the game such as the ammo pick up which was the foundation for the special bullets that Sam added to the game. Sam also wanted me to work on particle effects for the dashing but i struggled to do this as i didnt know cascade very well. i tried to overcome this by watching videos but it took me too long to grasp.
+
 ## Week 10
 
-This week I had the tinkering audio peer review. I feel like i was more strict than usual because of the amount practive ive had doing other peer reviews in other modules, i feel like this will help me with my own work because i will be more self critical and improve my work. I also had to present my pygame demo to investors. I was very nervous about this due to the fact that my team and i struggled to get a finished game done. We ran into many problems like overscoping and compiling code which wouldnt work. I will avoid this in the future by making sure the game is simple and easy to develop.
+Impending doom 
+
+This week i discovered the Arduino project was due next week, i completely forgot about this project due to the stress of the game project deadline approaching, as well as the Easter break. I didn't have much confidence in completing the arduino project as i couldn't get a basic grasp of SDL and struggled with arduino circuity as it was very new to me. i tried to over come this by trying to teach myself and read up on SDL but again it took me too long to understand how to use it. i should have asked lectures for more help and explain to them that im really struggling. 
 
 ## Week 11
 
-This week we started working in the unreal engine and going through the tutorial walkthrough. I was excited for this because i enjoy using the unreal engine and i feel like its a good start to making interesting games. I also learned about more Data Structures techniques, mostly Stacks and queues. I found it a little confusing at times so i will go revisit the slides in  my own time and take notes in a way that makes me understand it easier. this will help me improve my note taking skills as well as understanding techniques and information i find confusing.
+Finishing the projects
 
-## Week 12
-
-This week i wasnt able to attend another 110 session about Further Computational Mathematics for Games, due to another doctor appointment but again i will go back and visit the session slides and take notes to help me understand the content. i will avoid missing furthur sessions by making sure i book my doctor appointments in advance and making sure there are no clashes with my timetable. This week i also had my new game pitch with my new group. i felt like this went very well because my team took a lot of time refining the game making sure it was striaght forward and easy to understand and practicing the pitch so they know what to say exactly. i helped with the pitch by contrubting to some game mechanics slides.
+We finally finished the game project which was great, felt like a weight have been lifted. Everyone was very happy with the finished product. we only had one problem when trying to get the final build but that was to do with art textures, but aside from that the game was finished. The Arduino project was also due in this week, i know i failed that project as i barely had any work to show but i explained i will have something ready for the re-submission and will take the 40% cap
 
